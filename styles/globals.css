@@ -1,0 +1,32 @@
+/* purgecss start ignore */
+@import "tailwindcss/base";
+/* purgecss end ignore */
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+@layer components {
+  article p {
+    @apply mb-2;
+  }
+
+  article ol {
+    @apply list-decimal list-inside mb-4;
+  }
+  article ul {
+    @apply list-disc list-inside mb-4;
+  }
+}

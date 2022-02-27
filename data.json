@@ -1,0 +1,106 @@
+{
+  "page": 1,
+  "results_per_page": 20,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "Yhbv7hEAACgA3QCs",
+      "uid": "my-first-blog",
+      "url": null,
+      "type": "article",
+      "href": "https://cakurang-blog.cdn.prismic.io/api/v2/documents/search?ref=YhcBlBEAACgA3U9Z&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Yhbv7hEAACgA3QCs%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2022-02-24T02:39:54+0000",
+      "last_publication_date": "2022-02-24T03:55:00+0000",
+      "slugs": [
+        "my-first-blog"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "publish_date": "2022-02-02",
+        "article_title": [
+          {
+            "type": "heading1",
+            "text": "My first blog",
+            "spans": []
+          }
+        ],
+        "article_text": [
+          {
+            "type": "paragraph",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et facilisis dui, a semper mi. Vestibulum accumsan felis tortor, eget consectetur ipsum ornare in. Pellentesque in dictum orci. Vestibulum ac ligula placerat, lacinia nisl rutrum, finibus nulla. Aliquam rutrum ante ut lacinia vulputate. Vestibulum quis fermentum ligula. Morbi ultricies, lectus sit amet elementum lacinia, enim nisi viverra mauris, egestas dignissim dolor leo quis nisi. Praesent ornare enim eros, quis blandit nisi maximus quis.",
+            "spans": [
+              {
+                "start": 27,
+                "end": 56,
+                "type": "strong"
+              },
+              {
+                "start": 315,
+                "end": 332,
+                "type": "em"
+              }
+            ]
+          },
+          {
+            "type": "o-list-item",
+            "text": "Lorem Ipsum",
+            "spans": []
+          },
+          {
+            "type": "o-list-item",
+            "text": "Dolor sit amet",
+            "spans": []
+          },
+          {
+            "type": "o-list-item",
+            "text": "Nunc et facilis dui",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "First Item",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Second Item",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Third Item",
+            "spans": []
+          },
+          {
+            "type": "image",
+            "url": "https://images.prismic.io/cakurang-blog/b62c2ee6-cb3e-48aa-974a-9cf7eb6ef03c_1108683.jpg?auto=compress,format",
+            "alt": "mushoku-tensei",
+            "copyright": null,
+            "dimensions": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "article_image": {
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/cakurang-blog/1a6d1434-b0e1-417d-8ac6-efb090d219a2_wallhaven-1j1om9.png?auto=compress,format"
+        }
+      }
+    }
+  ],
+  "version": "83fc49a",
+  "license": "All Rights Reserved"
+}
